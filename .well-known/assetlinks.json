@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "jp.co.meetscom.koetomo.dev",
+    "sha256_cert_fingerprints": ["A4:65:6D:D3:17:38:D9:CE:FA:C8:2D:14:96:18:5D:C8:E2:67:70:C4:7F:36:16:DA:52:CD:37:99:E2:75:D2:39"]
+  }
+}]
